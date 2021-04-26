@@ -1,0 +1,26 @@
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.exe.config
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.exe
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.pdb
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csprojAssemblyReference.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormJadwalPenerbangan.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormLogin.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormPembayaran.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormSignUp.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.Properties.Resources.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csproj.GenerateResource.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csproj.CoreCompileInputs.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.exe
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 00 -- DD MM 2021 -- Informasi Kelas\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.pdb
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.exe.config
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.exe
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\bin\Debug\PerjalananPenerbangan.pdb
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csprojAssemblyReference.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormJadwalPenerbangan.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormLogin.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormPembayaran.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.FormSignUp.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.Properties.Resources.resources
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csproj.GenerateResource.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.csproj.CoreCompileInputs.cache
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.exe
+D:\Computer\Universitas Pelita Harapan\UPH 25 - Pengembangan Piranti Lunak\PPL 15 -- 20 04 2021 -- Presentasi Dokumentasi & Project\FOLDER UAS\PerjalananPenerbangan\obj\Debug\PerjalananPenerbangan.pdb
